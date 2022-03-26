@@ -1,3 +1,10 @@
+# Color Memory
+<img src="https://user-images.githubusercontent.com/71573064/160241920-321556b0-2e5e-45fb-b266-94efb8197c66.png" width="200"/><img src="https://user-images.githubusercontent.com/71573064/160241921-8aee8c97-1f7a-48d6-9868-d03732a20889.png" width="200"/>  
+A game application in angular.  
+https://play.google.com/store/apps/details?id=err.color.memory.or  
+<img src="https://user-images.githubusercontent.com/71573064/160241928-a7e21b22-7236-46e4-b30d-fbaa8ffc9169.png" width="400"/>  
+
+## Privacy Policy
 **Privacy Policy**
 
 白板無名 built the Color Memory app as an Ad Supported app. This SERVICE is provided by 白板無名 at no cost and is intended for use as is.
