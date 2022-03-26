@@ -3,6 +3,10 @@
 A game application in angular.  
 https://play.google.com/store/apps/details?id=err.color.memory.or  
 <img src="https://user-images.githubusercontent.com/71573064/160241928-a7e21b22-7236-46e4-b30d-fbaa8ffc9169.png" width="400"/>  
+  
+<img src="https://user-images.githubusercontent.com/71573064/160242320-83d891bf-06ca-414c-952c-538a218b2777.jpg" width="200"/><img src="https://user-images.githubusercontent.com/71573064/160242324-b17b0b13-9387-4014-b1e9-0487ee8b87e0.jpg" width="200"/>  
+<img src="https://user-images.githubusercontent.com/71573064/160242322-9a0fa30d-b493-45ed-b850-c0423aa6aae2.jpg" width="200"/><img src="https://user-images.githubusercontent.com/71573064/160242309-79613e97-3e25-445b-8e90-39e8681c7230.jpg" width="200"/>  
+<img src="https://user-images.githubusercontent.com/71573064/160242299-4298cca2-ac3c-4b47-a854-e2586145ad9f.jpg" width="200"/>  
 
 ## Privacy Policy
 **Privacy Policy**
